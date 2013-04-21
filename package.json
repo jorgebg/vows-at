@@ -13,5 +13,6 @@
   },
   "bugs" : {
     "url" : "http://github.com/jorgebg/vows-at/issues"
-  }
+  },
+  "keywords" : ["vows", "livescript", "coffeescript", "test", "assert"]
 }
