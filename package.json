@@ -5,5 +5,12 @@
   "main": "index.js",
   "dependencies" : {
     "vows": "latest"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/jorgebg/vows-at.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/jorgebg/vows-at/issues"
   }
 }
