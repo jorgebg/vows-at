@@ -1,0 +1,9 @@
+{
+  "name": "vows-at",
+  "version": "0.0.1",
+  "author": "Jorge Barata González",
+  "main": "index.js",
+  "dependencies" : {
+    "vows": "latest"
+  }
+}
