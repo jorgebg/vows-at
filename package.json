@@ -1,6 +1,7 @@
 {
   "name": "vows-at",
   "version": "0.0.1a",
+  "description": "Even less redundant vows",
   "author": "Jorge Barata González",
   "main": "index.js",
   "dependencies" : {
